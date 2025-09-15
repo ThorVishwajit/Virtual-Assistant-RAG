@@ -14,5 +14,5 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 RHUBARB_PATH = os.environ.get("RHUBARB_PATH", "rhubarb")
 
 # Ollama
-OLLAMA_URL = "http://localhost:11434/api/chat"
-OLLAMA_MODEL = "qwen2.5vl:7b"
+OLLAMA_URL = "https://mint-sweeping-roughy.ngrok-free.app/api/chat"
+OLLAMA_MODEL = "llama3.1:8b"
