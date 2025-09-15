@@ -10,10 +10,4 @@ __pycache__/
 .idea/
 .vscode/
 
-# Data outputs
-data/outputs/
-*.wav
-*.json
 
-# Datasets
-data/rag_dataset/
