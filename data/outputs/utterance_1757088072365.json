@@ -1,0 +1,483 @@
+{
+  "text": "<emotion:amused> Ahah, harsh words! I think it's like asking who ate the last slice of pizza – impossible to pinpoint, but always someone's fault. Seriously though, everyone's got their own thing going on, and we're all in this together... or is that just what the squirrels union said?",
+  "audio_file": "utterance_1757088072365.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 26.147
+  },
+  "emotion_plan": {
+    "primary": "curiosity",
+    "valence": -0.0898201678439269,
+    "arousal": 0.18492945036260566,
+    "intensity": 0.5229079131539038,
+    "top_emotions": [
+      {
+        "label": "curiosity",
+        "score": 0.15798650979995726
+      },
+      {
+        "label": "confusion",
+        "score": 0.13759987205266952
+      },
+      {
+        "label": "annoyance",
+        "score": 0.053066499531269073
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.53,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.95,
+      "phoneme": "D"
+    },
+    {
+      "time": 1.02,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.37,
+      "phoneme": "F"
+    },
+    {
+      "time": 1.65,
+      "phoneme": "E"
+    },
+    {
+      "time": 1.72,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.21,
+      "phoneme": "X"
+    },
+    {
+      "time": 2.94,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.99,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.8,
+      "phoneme": "H"
+    },
+    {
+      "time": 3.94,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.01,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.22,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.5,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.06,
+      "phoneme": "F"
+    },
+    {
+      "time": 5.4,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.47,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.82,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.89,
+      "phoneme": "H"
+    },
+    {
+      "time": 6.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.31,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.8,
+      "phoneme": "H"
+    },
+    {
+      "time": 6.87,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.94,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.15,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.22,
+      "phoneme": "G"
+    },
+    {
+      "time": 7.29,
+      "phoneme": "A"
+    },
+    {
+      "time": 7.37,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.85,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.99,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.06,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.14,
+      "phoneme": "D"
+    },
+    {
+      "time": 8.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.56,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.64,
+      "phoneme": "C"
+    },
+    {
+      "time": 8.77,
+      "phoneme": "F"
+    },
+    {
+      "time": 8.91,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.99,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.33,
+      "phoneme": "A"
+    },
+    {
+      "time": 9.41,
+      "phoneme": "E"
+    },
+    {
+      "time": 9.55,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.97,
+      "phoneme": "X"
+    },
+    {
+      "time": 10.28,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.45,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.87,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.01,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.29,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.36,
+      "phoneme": "A"
+    },
+    {
+      "time": 11.48,
+      "phoneme": "F"
+    },
+    {
+      "time": 11.53,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.71,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.78,
+      "phoneme": "G"
+    },
+    {
+      "time": 11.99,
+      "phoneme": "E"
+    },
+    {
+      "time": 12.37,
+      "phoneme": "F"
+    },
+    {
+      "time": 12.63,
+      "phoneme": "X"
+    },
+    {
+      "time": 13.35,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.92,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.99,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.41,
+      "phoneme": "E"
+    },
+    {
+      "time": 14.76,
+      "phoneme": "F"
+    },
+    {
+      "time": 14.9,
+      "phoneme": "X"
+    },
+    {
+      "time": 15.35,
+      "phoneme": "C"
+    },
+    {
+      "time": 15.48,
+      "phoneme": "G"
+    },
+    {
+      "time": 15.55,
+      "phoneme": "B"
+    },
+    {
+      "time": 15.9,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.11,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.18,
+      "phoneme": "D"
+    },
+    {
+      "time": 16.37,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.67,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.74,
+      "phoneme": "E"
+    },
+    {
+      "time": 16.95,
+      "phoneme": "F"
+    },
+    {
+      "time": 17.16,
+      "phoneme": "G"
+    },
+    {
+      "time": 17.21,
+      "phoneme": "F"
+    },
+    {
+      "time": 17.32,
+      "phoneme": "B"
+    },
+    {
+      "time": 17.39,
+      "phoneme": "E"
+    },
+    {
+      "time": 17.6,
+      "phoneme": "F"
+    },
+    {
+      "time": 17.67,
+      "phoneme": "B"
+    },
+    {
+      "time": 17.74,
+      "phoneme": "C"
+    },
+    {
+      "time": 17.95,
+      "phoneme": "B"
+    },
+    {
+      "time": 18.02,
+      "phoneme": "D"
+    },
+    {
+      "time": 18.16,
+      "phoneme": "B"
+    },
+    {
+      "time": 18.37,
+      "phoneme": "X"
+    },
+    {
+      "time": 18.99,
+      "phoneme": "C"
+    },
+    {
+      "time": 19.34,
+      "phoneme": "E"
+    },
+    {
+      "time": 19.7,
+      "phoneme": "F"
+    },
+    {
+      "time": 19.84,
+      "phoneme": "B"
+    },
+    {
+      "time": 20.71,
+      "phoneme": "C"
+    },
+    {
+      "time": 20.78,
+      "phoneme": "A"
+    },
+    {
+      "time": 20.86,
+      "phoneme": "F"
+    },
+    {
+      "time": 21.08,
+      "phoneme": "X"
+    },
+    {
+      "time": 21.97,
+      "phoneme": "E"
+    },
+    {
+      "time": 22.12,
+      "phoneme": "B"
+    },
+    {
+      "time": 22.47,
+      "phoneme": "C"
+    },
+    {
+      "time": 22.54,
+      "phoneme": "B"
+    },
+    {
+      "time": 22.82,
+      "phoneme": "D"
+    },
+    {
+      "time": 22.96,
+      "phoneme": "B"
+    },
+    {
+      "time": 23.1,
+      "phoneme": "C"
+    },
+    {
+      "time": 23.24,
+      "phoneme": "A"
+    },
+    {
+      "time": 23.32,
+      "phoneme": "C"
+    },
+    {
+      "time": 23.55,
+      "phoneme": "B"
+    },
+    {
+      "time": 23.83,
+      "phoneme": "E"
+    },
+    {
+      "time": 23.97,
+      "phoneme": "C"
+    },
+    {
+      "time": 24.04,
+      "phoneme": "H"
+    },
+    {
+      "time": 24.18,
+      "phoneme": "B"
+    },
+    {
+      "time": 24.32,
+      "phoneme": "F"
+    },
+    {
+      "time": 24.74,
+      "phoneme": "B"
+    },
+    {
+      "time": 24.95,
+      "phoneme": "E"
+    },
+    {
+      "time": 25.23,
+      "phoneme": "B"
+    },
+    {
+      "time": 25.37,
+      "phoneme": "X"
+    }
+  ]
+}

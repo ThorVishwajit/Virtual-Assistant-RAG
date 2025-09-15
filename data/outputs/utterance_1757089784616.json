@@ -1,0 +1,303 @@
+{
+  "text": "\"Pikachu, the electricity-fueled underdog. I choose Pikachu too... which means we're basically going to be best buds and steal all the Pokémon sandwiches now.\"",
+  "audio_file": "utterance_1757089784616.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 16.241
+  },
+  "emotion_plan": {
+    "primary": "approval",
+    "valence": 0.1992254679469132,
+    "arousal": 0.1316014770912087,
+    "intensity": 0.37901382053678384,
+    "top_emotions": [
+      {
+        "label": "approval",
+        "score": 0.13887729197740553
+      },
+      {
+        "label": "neutral",
+        "score": 0.13524101674556732
+      },
+      {
+        "label": "joy",
+        "score": 0.030091791972517965
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.08,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.47,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.68,
+      "phoneme": "F"
+    },
+    {
+      "time": 0.96,
+      "phoneme": "X"
+    },
+    {
+      "time": 1.57,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.19,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.26,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.75,
+      "phoneme": "G"
+    },
+    {
+      "time": 2.89,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.1,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.17,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.24,
+      "phoneme": "E"
+    },
+    {
+      "time": 3.45,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.52,
+      "phoneme": "A"
+    },
+    {
+      "time": 3.62,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.68,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.3,
+      "phoneme": "X"
+    },
+    {
+      "time": 5.2,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.25,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.29,
+      "phoneme": "F"
+    },
+    {
+      "time": 5.88,
+      "phoneme": "E"
+    },
+    {
+      "time": 5.96,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.34,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.55,
+      "phoneme": "A"
+    },
+    {
+      "time": 6.65,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.7,
+      "phoneme": "F"
+    },
+    {
+      "time": 7.23,
+      "phoneme": "X"
+    },
+    {
+      "time": 7.91,
+      "phoneme": "F"
+    },
+    {
+      "time": 7.98,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.18,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.33,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.69,
+      "phoneme": "F"
+    },
+    {
+      "time": 8.83,
+      "phoneme": "E"
+    },
+    {
+      "time": 8.9,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.98,
+      "phoneme": "C"
+    },
+    {
+      "time": 9.16,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.79,
+      "phoneme": "E"
+    },
+    {
+      "time": 10.0,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.14,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.28,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.42,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.5,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.08,
+      "phoneme": "A"
+    },
+    {
+      "time": 11.37,
+      "phoneme": "D"
+    },
+    {
+      "time": 11.53,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.57,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.83,
+      "phoneme": "G"
+    },
+    {
+      "time": 11.97,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.32,
+      "phoneme": "H"
+    },
+    {
+      "time": 12.56,
+      "phoneme": "E"
+    },
+    {
+      "time": 13.02,
+      "phoneme": "A"
+    },
+    {
+      "time": 13.1,
+      "phoneme": "D"
+    },
+    {
+      "time": 13.23,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.29,
+      "phoneme": "A"
+    },
+    {
+      "time": 13.37,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.68,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.96,
+      "phoneme": "D"
+    },
+    {
+      "time": 14.1,
+      "phoneme": "E"
+    },
+    {
+      "time": 14.24,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.38,
+      "phoneme": "F"
+    },
+    {
+      "time": 14.45,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.94,
+      "phoneme": "C"
+    },
+    {
+      "time": 15.01,
+      "phoneme": "D"
+    },
+    {
+      "time": 15.29,
+      "phoneme": "E"
+    },
+    {
+      "time": 15.5,
+      "phoneme": "X"
+    }
+  ]
+}

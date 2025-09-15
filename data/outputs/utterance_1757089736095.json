@@ -1,0 +1,251 @@
+{
+  "text": "A classic comeback! \"I'm a potato, you're a carrot stick. At least potatoes can make decent mashed potatoes.\"",
+  "audio_file": "utterance_1757089736095.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 11.954
+  },
+  "emotion_plan": {
+    "primary": "neutral",
+    "valence": 0.013584347965133012,
+    "arousal": 0.013926295772759794,
+    "intensity": 0.37510456788731966,
+    "top_emotions": [
+      {
+        "label": "neutral",
+        "score": 0.31239725351333614
+      },
+      {
+        "label": "approval",
+        "score": 0.03749603927135467
+      },
+      {
+        "label": "realization",
+        "score": 0.008912300318479538
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "A"
+    },
+    {
+      "time": 0.28,
+      "phoneme": "H"
+    },
+    {
+      "time": 0.34,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.53,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.95,
+      "phoneme": "E"
+    },
+    {
+      "time": 1.09,
+      "phoneme": "F"
+    },
+    {
+      "time": 1.16,
+      "phoneme": "A"
+    },
+    {
+      "time": 1.3,
+      "phoneme": "C"
+    },
+    {
+      "time": 1.46,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.81,
+      "phoneme": "X"
+    },
+    {
+      "time": 2.55,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.63,
+      "phoneme": "A"
+    },
+    {
+      "time": 2.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.1,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.52,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.59,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.66,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.87,
+      "phoneme": "X"
+    },
+    {
+      "time": 4.28,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.35,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.41,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.48,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.9,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.97,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.04,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.32,
+      "phoneme": "F"
+    },
+    {
+      "time": 5.67,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.88,
+      "phoneme": "X"
+    },
+    {
+      "time": 6.71,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.5,
+      "phoneme": "A"
+    },
+    {
+      "time": 7.58,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.65,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.72,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.93,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.0,
+      "phoneme": "E"
+    },
+    {
+      "time": 8.14,
+      "phoneme": "F"
+    },
+    {
+      "time": 8.28,
+      "phoneme": "C"
+    },
+    {
+      "time": 8.63,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.71,
+      "phoneme": "C"
+    },
+    {
+      "time": 8.79,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.86,
+      "phoneme": "X"
+    },
+    {
+      "time": 9.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.57,
+      "phoneme": "C"
+    },
+    {
+      "time": 9.67,
+      "phoneme": "D"
+    },
+    {
+      "time": 9.81,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.1,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.23,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.37,
+      "phoneme": "C"
+    },
+    {
+      "time": 10.51,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.58,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.79,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.96,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.29,
+      "phoneme": "X"
+    }
+  ]
+}

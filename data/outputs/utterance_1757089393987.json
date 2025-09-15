@@ -1,0 +1,511 @@
+{
+  "text": "Sassy one, eh? Well, let me tell you a secret: I'm pretty sure that \"self\" in the mirror is looking back at someone who's been binge-watching too much anime. But seriously, if I had to choose, I'd say it's those obligatory tsundere love interests in every harem show. Am I right?",
+  "audio_file": "utterance_1757089393987.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 28.436
+  },
+  "emotion_plan": {
+    "primary": "approval",
+    "valence": 0.009572513877871364,
+    "arousal": 0.1266666897484592,
+    "intensity": 0.45236255865165714,
+    "top_emotions": [
+      {
+        "label": "approval",
+        "score": 0.1355544939637184
+      },
+      {
+        "label": "curiosity",
+        "score": 0.12464577257633208
+      },
+      {
+        "label": "confusion",
+        "score": 0.08180104196071625
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.17,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.38,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.59,
+      "phoneme": "F"
+    },
+    {
+      "time": 0.8,
+      "phoneme": "E"
+    },
+    {
+      "time": 0.94,
+      "phoneme": "C"
+    },
+    {
+      "time": 1.01,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.57,
+      "phoneme": "X"
+    },
+    {
+      "time": 2.36,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.52,
+      "phoneme": "E"
+    },
+    {
+      "time": 2.73,
+      "phoneme": "F"
+    },
+    {
+      "time": 2.94,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.44,
+      "phoneme": "H"
+    },
+    {
+      "time": 3.56,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.63,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.79,
+      "phoneme": "A"
+    },
+    {
+      "time": 3.87,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.31,
+      "phoneme": "H"
+    },
+    {
+      "time": 4.45,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.49,
+      "phoneme": "F"
+    },
+    {
+      "time": 4.59,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.87,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.94,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.74,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.86,
+      "phoneme": "A"
+    },
+    {
+      "time": 6.01,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.41,
+      "phoneme": "F"
+    },
+    {
+      "time": 6.9,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.97,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.04,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.39,
+      "phoneme": "E"
+    },
+    {
+      "time": 7.53,
+      "phoneme": "G"
+    },
+    {
+      "time": 7.6,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.67,
+      "phoneme": "C"
+    },
+    {
+      "time": 7.88,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.95,
+      "phoneme": "A"
+    },
+    {
+      "time": 8.12,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.19,
+      "phoneme": "E"
+    },
+    {
+      "time": 8.68,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.89,
+      "phoneme": "F"
+    },
+    {
+      "time": 9.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.38,
+      "phoneme": "A"
+    },
+    {
+      "time": 9.47,
+      "phoneme": "C"
+    },
+    {
+      "time": 10.13,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.48,
+      "phoneme": "C"
+    },
+    {
+      "time": 10.55,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.66,
+      "phoneme": "F"
+    },
+    {
+      "time": 10.78,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.85,
+      "phoneme": "F"
+    },
+    {
+      "time": 11.2,
+      "phoneme": "A"
+    },
+    {
+      "time": 11.28,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.58,
+      "phoneme": "A"
+    },
+    {
+      "time": 11.66,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.08,
+      "phoneme": "F"
+    },
+    {
+      "time": 12.29,
+      "phoneme": "E"
+    },
+    {
+      "time": 12.36,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.71,
+      "phoneme": "F"
+    },
+    {
+      "time": 13.13,
+      "phoneme": "E"
+    },
+    {
+      "time": 13.27,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.69,
+      "phoneme": "A"
+    },
+    {
+      "time": 13.77,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.84,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.9,
+      "phoneme": "C"
+    },
+    {
+      "time": 14.11,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.25,
+      "phoneme": "X"
+    },
+    {
+      "time": 14.98,
+      "phoneme": "F"
+    },
+    {
+      "time": 15.02,
+      "phoneme": "C"
+    },
+    {
+      "time": 15.13,
+      "phoneme": "B"
+    },
+    {
+      "time": 15.41,
+      "phoneme": "F"
+    },
+    {
+      "time": 16.21,
+      "phoneme": "E"
+    },
+    {
+      "time": 16.28,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.52,
+      "phoneme": "X"
+    },
+    {
+      "time": 17.3,
+      "phoneme": "B"
+    },
+    {
+      "time": 17.38,
+      "phoneme": "G"
+    },
+    {
+      "time": 17.52,
+      "phoneme": "C"
+    },
+    {
+      "time": 17.59,
+      "phoneme": "B"
+    },
+    {
+      "time": 17.66,
+      "phoneme": "C"
+    },
+    {
+      "time": 17.8,
+      "phoneme": "F"
+    },
+    {
+      "time": 18.11,
+      "phoneme": "B"
+    },
+    {
+      "time": 18.36,
+      "phoneme": "F"
+    },
+    {
+      "time": 18.64,
+      "phoneme": "A"
+    },
+    {
+      "time": 18.83,
+      "phoneme": "B"
+    },
+    {
+      "time": 19.39,
+      "phoneme": "C"
+    },
+    {
+      "time": 19.44,
+      "phoneme": "B"
+    },
+    {
+      "time": 19.84,
+      "phoneme": "C"
+    },
+    {
+      "time": 19.91,
+      "phoneme": "B"
+    },
+    {
+      "time": 20.4,
+      "phoneme": "E"
+    },
+    {
+      "time": 20.54,
+      "phoneme": "F"
+    },
+    {
+      "time": 20.61,
+      "phoneme": "B"
+    },
+    {
+      "time": 20.68,
+      "phoneme": "C"
+    },
+    {
+      "time": 20.75,
+      "phoneme": "A"
+    },
+    {
+      "time": 20.94,
+      "phoneme": "B"
+    },
+    {
+      "time": 21.25,
+      "phoneme": "E"
+    },
+    {
+      "time": 21.53,
+      "phoneme": "B"
+    },
+    {
+      "time": 22.02,
+      "phoneme": "F"
+    },
+    {
+      "time": 22.44,
+      "phoneme": "B"
+    },
+    {
+      "time": 22.58,
+      "phoneme": "A"
+    },
+    {
+      "time": 22.66,
+      "phoneme": "C"
+    },
+    {
+      "time": 22.87,
+      "phoneme": "B"
+    },
+    {
+      "time": 23.36,
+      "phoneme": "C"
+    },
+    {
+      "time": 23.57,
+      "phoneme": "B"
+    },
+    {
+      "time": 24.31,
+      "phoneme": "C"
+    },
+    {
+      "time": 24.46,
+      "phoneme": "G"
+    },
+    {
+      "time": 24.6,
+      "phoneme": "B"
+    },
+    {
+      "time": 24.74,
+      "phoneme": "E"
+    },
+    {
+      "time": 24.88,
+      "phoneme": "B"
+    },
+    {
+      "time": 25.51,
+      "phoneme": "E"
+    },
+    {
+      "time": 25.72,
+      "phoneme": "F"
+    },
+    {
+      "time": 25.86,
+      "phoneme": "X"
+    },
+    {
+      "time": 26.59,
+      "phoneme": "B"
+    },
+    {
+      "time": 26.67,
+      "phoneme": "A"
+    },
+    {
+      "time": 26.74,
+      "phoneme": "E"
+    },
+    {
+      "time": 26.9,
+      "phoneme": "B"
+    },
+    {
+      "time": 27.18,
+      "phoneme": "D"
+    },
+    {
+      "time": 27.32,
+      "phoneme": "B"
+    },
+    {
+      "time": 27.74,
+      "phoneme": "X"
+    }
+  ]
+}

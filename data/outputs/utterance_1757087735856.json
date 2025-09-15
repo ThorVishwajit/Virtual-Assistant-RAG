@@ -1,0 +1,375 @@
+{
+  "text": "<emotion:bitter_joke> Oh, don't worry about me! I'm sure the countless hours you spent \"creating\" me were totally worth it. I mean, what's a little existential dread when there are pixels to be placed?",
+  "audio_file": "utterance_1757087735856.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 17.059
+  },
+  "emotion_plan": {
+    "primary": "curiosity",
+    "valence": 0.10803141066665645,
+    "arousal": 0.12392183802844457,
+    "intensity": 0.5263312643917741,
+    "top_emotions": [
+      {
+        "label": "curiosity",
+        "score": 0.15144116431474686
+      },
+      {
+        "label": "approval",
+        "score": 0.1199798822402954
+      },
+      {
+        "label": "admiration",
+        "score": 0.07615906745195389
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.23,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.62,
+      "phoneme": "E"
+    },
+    {
+      "time": 0.76,
+      "phoneme": "F"
+    },
+    {
+      "time": 0.9,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.11,
+      "phoneme": "F"
+    },
+    {
+      "time": 1.24,
+      "phoneme": "E"
+    },
+    {
+      "time": 1.45,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.52,
+      "phoneme": "A"
+    },
+    {
+      "time": 1.6,
+      "phoneme": "C"
+    },
+    {
+      "time": 1.76,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.04,
+      "phoneme": "A"
+    },
+    {
+      "time": 2.12,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.33,
+      "phoneme": "X"
+    },
+    {
+      "time": 3.15,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.25,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.32,
+      "phoneme": "A"
+    },
+    {
+      "time": 3.41,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.65,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.9,
+      "phoneme": "E"
+    },
+    {
+      "time": 3.97,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.28,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.35,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.49,
+      "phoneme": "H"
+    },
+    {
+      "time": 4.63,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.7,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.84,
+      "phoneme": "D"
+    },
+    {
+      "time": 4.98,
+      "phoneme": "E"
+    },
+    {
+      "time": 5.33,
+      "phoneme": "F"
+    },
+    {
+      "time": 5.68,
+      "phoneme": "A"
+    },
+    {
+      "time": 5.78,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.05,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.61,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.68,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.03,
+      "phoneme": "F"
+    },
+    {
+      "time": 7.1,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.31,
+      "phoneme": "F"
+    },
+    {
+      "time": 7.45,
+      "phoneme": "E"
+    },
+    {
+      "time": 7.52,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.59,
+      "phoneme": "E"
+    },
+    {
+      "time": 7.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.94,
+      "phoneme": "C"
+    },
+    {
+      "time": 8.08,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.36,
+      "phoneme": "F"
+    },
+    {
+      "time": 8.57,
+      "phoneme": "E"
+    },
+    {
+      "time": 8.64,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.0,
+      "phoneme": "F"
+    },
+    {
+      "time": 9.23,
+      "phoneme": "X"
+    },
+    {
+      "time": 9.92,
+      "phoneme": "C"
+    },
+    {
+      "time": 10.01,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.08,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.2,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.87,
+      "phoneme": "F"
+    },
+    {
+      "time": 11.07,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.28,
+      "phoneme": "E"
+    },
+    {
+      "time": 11.35,
+      "phoneme": "F"
+    },
+    {
+      "time": 11.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.63,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.7,
+      "phoneme": "F"
+    },
+    {
+      "time": 11.91,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.33,
+      "phoneme": "C"
+    },
+    {
+      "time": 12.54,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.61,
+      "phoneme": "C"
+    },
+    {
+      "time": 12.82,
+      "phoneme": "H"
+    },
+    {
+      "time": 12.89,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.24,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.38,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.59,
+      "phoneme": "F"
+    },
+    {
+      "time": 13.66,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.87,
+      "phoneme": "C"
+    },
+    {
+      "time": 13.94,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.22,
+      "phoneme": "A"
+    },
+    {
+      "time": 14.3,
+      "phoneme": "E"
+    },
+    {
+      "time": 14.56,
+      "phoneme": "C"
+    },
+    {
+      "time": 14.63,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.77,
+      "phoneme": "E"
+    },
+    {
+      "time": 14.84,
+      "phoneme": "F"
+    },
+    {
+      "time": 15.19,
+      "phoneme": "A"
+    },
+    {
+      "time": 15.27,
+      "phoneme": "B"
+    },
+    {
+      "time": 15.64,
+      "phoneme": "H"
+    },
+    {
+      "time": 15.71,
+      "phoneme": "C"
+    },
+    {
+      "time": 15.85,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.34,
+      "phoneme": "X"
+    }
+  ]
+}

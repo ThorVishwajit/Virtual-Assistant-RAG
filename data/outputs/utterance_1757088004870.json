@@ -1,0 +1,495 @@
+{
+  "text": "<bemused> Oh, burn! I'll take that as a badge of honor. You'd rather spend your time with me than binge-watch anime or play games? I'm flattered... but also probably wasting my own time by being here, so it's a win-win, really. What's eating at you today?",
+  "audio_file": "utterance_1757088004870.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 24.997
+  },
+  "emotion_plan": {
+    "primary": "curiosity",
+    "valence": 0.049972610764062134,
+    "arousal": 0.055805974407559494,
+    "intensity": 0.44724716581113166,
+    "top_emotions": [
+      {
+        "label": "curiosity",
+        "score": 0.21346844136714935
+      },
+      {
+        "label": "approval",
+        "score": 0.07936986461281775
+      },
+      {
+        "label": "neutral",
+        "score": 0.0531664215028286
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.24,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.36,
+      "phoneme": "E"
+    },
+    {
+      "time": 0.78,
+      "phoneme": "C"
+    },
+    {
+      "time": 1.06,
+      "phoneme": "X"
+    },
+    {
+      "time": 1.92,
+      "phoneme": "E"
+    },
+    {
+      "time": 2.18,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.25,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.46,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.69,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.75,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.89,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.24,
+      "phoneme": "A"
+    },
+    {
+      "time": 3.32,
+      "phoneme": "C"
+    },
+    {
+      "time": 3.54,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.61,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.82,
+      "phoneme": "A"
+    },
+    {
+      "time": 3.9,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.14,
+      "phoneme": "A"
+    },
+    {
+      "time": 4.43,
+      "phoneme": "X"
+    },
+    {
+      "time": 5.2,
+      "phoneme": "F"
+    },
+    {
+      "time": 5.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.7,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.77,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.84,
+      "phoneme": "E"
+    },
+    {
+      "time": 5.98,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.26,
+      "phoneme": "C"
+    },
+    {
+      "time": 6.33,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.61,
+      "phoneme": "E"
+    },
+    {
+      "time": 6.82,
+      "phoneme": "B"
+    },
+    {
+      "time": 6.89,
+      "phoneme": "D"
+    },
+    {
+      "time": 7.17,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.31,
+      "phoneme": "A"
+    },
+    {
+      "time": 7.44,
+      "phoneme": "F"
+    },
+    {
+      "time": 7.53,
+      "phoneme": "B"
+    },
+    {
+      "time": 7.74,
+      "phoneme": "A"
+    },
+    {
+      "time": 7.82,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.12,
+      "phoneme": "C"
+    },
+    {
+      "time": 8.19,
+      "phoneme": "B"
+    },
+    {
+      "time": 8.89,
+      "phoneme": "F"
+    },
+    {
+      "time": 8.96,
+      "phoneme": "E"
+    },
+    {
+      "time": 9.24,
+      "phoneme": "B"
+    },
+    {
+      "time": 9.54,
+      "phoneme": "C"
+    },
+    {
+      "time": 9.77,
+      "phoneme": "G"
+    },
+    {
+      "time": 9.84,
+      "phoneme": "C"
+    },
+    {
+      "time": 9.91,
+      "phoneme": "A"
+    },
+    {
+      "time": 9.99,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.23,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.32,
+      "phoneme": "E"
+    },
+    {
+      "time": 10.5,
+      "phoneme": "A"
+    },
+    {
+      "time": 10.68,
+      "phoneme": "H"
+    },
+    {
+      "time": 10.77,
+      "phoneme": "C"
+    },
+    {
+      "time": 10.84,
+      "phoneme": "B"
+    },
+    {
+      "time": 10.91,
+      "phoneme": "C"
+    },
+    {
+      "time": 11.19,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.33,
+      "phoneme": "A"
+    },
+    {
+      "time": 11.51,
+      "phoneme": "B"
+    },
+    {
+      "time": 11.81,
+      "phoneme": "X"
+    },
+    {
+      "time": 12.52,
+      "phoneme": "C"
+    },
+    {
+      "time": 12.65,
+      "phoneme": "B"
+    },
+    {
+      "time": 12.86,
+      "phoneme": "E"
+    },
+    {
+      "time": 13.0,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.07,
+      "phoneme": "E"
+    },
+    {
+      "time": 13.28,
+      "phoneme": "B"
+    },
+    {
+      "time": 13.56,
+      "phoneme": "X"
+    },
+    {
+      "time": 14.35,
+      "phoneme": "F"
+    },
+    {
+      "time": 14.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 14.67,
+      "phoneme": "E"
+    },
+    {
+      "time": 14.89,
+      "phoneme": "B"
+    },
+    {
+      "time": 15.03,
+      "phoneme": "E"
+    },
+    {
+      "time": 15.1,
+      "phoneme": "A"
+    },
+    {
+      "time": 15.32,
+      "phoneme": "B"
+    },
+    {
+      "time": 15.38,
+      "phoneme": "D"
+    },
+    {
+      "time": 15.44,
+      "phoneme": "A"
+    },
+    {
+      "time": 15.52,
+      "phoneme": "C"
+    },
+    {
+      "time": 15.6,
+      "phoneme": "A"
+    },
+    {
+      "time": 15.68,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.01,
+      "phoneme": "F"
+    },
+    {
+      "time": 16.08,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.15,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.64,
+      "phoneme": "A"
+    },
+    {
+      "time": 16.72,
+      "phoneme": "C"
+    },
+    {
+      "time": 16.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 16.87,
+      "phoneme": "E"
+    },
+    {
+      "time": 17.01,
+      "phoneme": "F"
+    },
+    {
+      "time": 17.22,
+      "phoneme": "E"
+    },
+    {
+      "time": 17.64,
+      "phoneme": "B"
+    },
+    {
+      "time": 17.71,
+      "phoneme": "A"
+    },
+    {
+      "time": 17.79,
+      "phoneme": "C"
+    },
+    {
+      "time": 17.95,
+      "phoneme": "A"
+    },
+    {
+      "time": 18.03,
+      "phoneme": "B"
+    },
+    {
+      "time": 18.75,
+      "phoneme": "E"
+    },
+    {
+      "time": 19.06,
+      "phoneme": "B"
+    },
+    {
+      "time": 19.3,
+      "phoneme": "E"
+    },
+    {
+      "time": 19.37,
+      "phoneme": "F"
+    },
+    {
+      "time": 19.51,
+      "phoneme": "B"
+    },
+    {
+      "time": 19.79,
+      "phoneme": "E"
+    },
+    {
+      "time": 19.86,
+      "phoneme": "F"
+    },
+    {
+      "time": 20.0,
+      "phoneme": "C"
+    },
+    {
+      "time": 20.35,
+      "phoneme": "F"
+    },
+    {
+      "time": 20.42,
+      "phoneme": "C"
+    },
+    {
+      "time": 20.84,
+      "phoneme": "X"
+    },
+    {
+      "time": 20.98,
+      "phoneme": "B"
+    },
+    {
+      "time": 21.56,
+      "phoneme": "X"
+    },
+    {
+      "time": 22.32,
+      "phoneme": "F"
+    },
+    {
+      "time": 22.36,
+      "phoneme": "C"
+    },
+    {
+      "time": 22.47,
+      "phoneme": "B"
+    },
+    {
+      "time": 23.1,
+      "phoneme": "C"
+    },
+    {
+      "time": 23.17,
+      "phoneme": "B"
+    },
+    {
+      "time": 23.24,
+      "phoneme": "F"
+    },
+    {
+      "time": 23.73,
+      "phoneme": "E"
+    },
+    {
+      "time": 24.08,
+      "phoneme": "C"
+    },
+    {
+      "time": 24.22,
+      "phoneme": "X"
+    }
+  ]
+}

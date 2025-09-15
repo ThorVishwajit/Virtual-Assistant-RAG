@@ -1,0 +1,135 @@
+{
+  "text": "\"Ouch, burn! Guess I'm not as cool as a robot... yet.\"",
+  "audio_file": "utterance_1757089509783.wav",
+  "timestamps": {
+    "start": 0.0,
+    "end": 6.609
+  },
+  "emotion_plan": {
+    "primary": "disappointment",
+    "valence": -0.09677617314091001,
+    "arousal": 0.0761447188231857,
+    "intensity": 0.44815088505856693,
+    "top_emotions": [
+      {
+        "label": "disappointment",
+        "score": 0.1527207538485527
+      },
+      {
+        "label": "annoyance",
+        "score": 0.09700136482715606
+      },
+      {
+        "label": "neutral",
+        "score": 0.07633112892508506
+      }
+    ],
+    "face_blendshapes": {},
+    "gesture": null,
+    "fade_in": 0.12,
+    "hold_min": 0.35,
+    "fade_out": 0.18
+  },
+  "lip_sync": [
+    {
+      "time": 0.0,
+      "phoneme": "X"
+    },
+    {
+      "time": 0.03,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.21,
+      "phoneme": "B"
+    },
+    {
+      "time": 0.83,
+      "phoneme": "C"
+    },
+    {
+      "time": 0.9,
+      "phoneme": "E"
+    },
+    {
+      "time": 1.04,
+      "phoneme": "F"
+    },
+    {
+      "time": 1.32,
+      "phoneme": "B"
+    },
+    {
+      "time": 1.64,
+      "phoneme": "C"
+    },
+    {
+      "time": 1.8,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.01,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.08,
+      "phoneme": "B"
+    },
+    {
+      "time": 2.15,
+      "phoneme": "A"
+    },
+    {
+      "time": 2.33,
+      "phoneme": "D"
+    },
+    {
+      "time": 2.49,
+      "phoneme": "C"
+    },
+    {
+      "time": 2.53,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.14,
+      "phoneme": "F"
+    },
+    {
+      "time": 3.42,
+      "phoneme": "B"
+    },
+    {
+      "time": 3.91,
+      "phoneme": "C"
+    },
+    {
+      "time": 4.09,
+      "phoneme": "E"
+    },
+    {
+      "time": 4.46,
+      "phoneme": "B"
+    },
+    {
+      "time": 4.67,
+      "phoneme": "X"
+    },
+    {
+      "time": 5.27,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.34,
+      "phoneme": "C"
+    },
+    {
+      "time": 5.4,
+      "phoneme": "B"
+    },
+    {
+      "time": 5.95,
+      "phoneme": "X"
+    }
+  ]
+}
