@@ -13,4 +13,3 @@ It helps in answering queries by combining local data with powerful language mod
 
 ---
 
-## 📂 Project Structure
