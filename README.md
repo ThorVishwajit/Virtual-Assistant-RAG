@@ -1,5 +1,16 @@
-<<<<<<< HEAD
-RAG pipelines
-=======
-# Virtual-Assistant-RAG
->>>>>>> c430163987847948811d8b196fe06139e69b222a
+# Virtual Assistant (RAG-based)
+
+This is a **Virtual Assistant project** built with Retrieval-Augmented Generation (RAG) and Python.  
+It helps in answering queries by combining local data with powerful language models.
+
+---
+
+## 🚀 Features
+- Retrieval-Augmented Generation (RAG) support
+- Handles natural language queries
+- Extendable architecture for adding new data sources
+- Python-based and easy to set up
+
+---
+
+## 📂 Project Structure
